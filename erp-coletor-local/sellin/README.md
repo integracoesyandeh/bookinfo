@@ -1,6 +1,8 @@
-# Compras
+---
+description: Modelo de Dados - Sellin | Compras de Fornecedor
+---
 
-### description: Modelo de Dados - Sellin \| Compras de Fornecedor
+# Compras
 
 ## Compras
 

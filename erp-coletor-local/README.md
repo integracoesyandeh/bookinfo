@@ -16,6 +16,6 @@ A seguir, apresentamos o escopo para nossa integração:
 | [Store](store.md) | Loja do cliente |
 | [Compras \(Sellin\)](sellin/) | Compras realizadas pelos clientes |
 | [Vendas \(Sellout\)](sellout-vendas/) | Vendas realizadas pelos clientes |
-| [Products \(Produtos\)](produtos/) | Cadastro de produto e suas respectivas categorias |
-| [Estoque](estoque.md) | Estoque dos produtos |
+| [Produtos \(Products\)](produtos/) | Cadastro de produto e suas respectivas categorias |
+| [Estoque \(Inventory\)](estoque.md) | Estoque dos produtos |
 

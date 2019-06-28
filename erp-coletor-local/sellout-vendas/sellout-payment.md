@@ -20,6 +20,8 @@ description: Modelo de Dados - "Sellout-Payment" | Vendas aos Clientes (Forma de
 | nsu | NSU | string | – | – |
 | authorization | Autorização da transação | string | – | – |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text

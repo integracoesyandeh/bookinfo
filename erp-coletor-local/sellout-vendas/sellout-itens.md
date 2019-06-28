@@ -4,7 +4,7 @@ description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 
 # Vendas - Itens
 
-**Itens do Sellout**
+## **Itens do Sellout**
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :---: | :--- | :--- | :--- | :--- |
@@ -29,6 +29,8 @@ description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 | **unit\_value\*** | **Valor unitário do produto. Este valor deve vir com 4 casas decimais** | **float** | **--** | **4.9888** |
 | **quantity\*** | **Quantidade comprada do produto** | **float** | **--** | **1.0000** |
 | manufacturer\_code | Código do fabricante | string | -- | 8928329 |
+
+\*Campos obrigatórios
 
 ## Exemplo de consulta em SQL:
 
