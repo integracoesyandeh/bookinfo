@@ -6,7 +6,7 @@ Escolha seu modelo de desenvolvimento de integração disponíveis para compleme
 
 O objetivo dessa documentação é facilitar o processo de desenvolvimento e fornecendo os materiais necessários para realizar a integração com a Bookinfo e todos os conceitos sobre a importância dessa integração.
 
-Atualmente a Yandeh está disponível:
+Atualmente na Bookinfo temos disponível os seguintes modelos:
 
 * [Coletor-ERP](erp-coletor-local/)
 * [API-REST](api-rest.md)
