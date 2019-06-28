@@ -6,7 +6,7 @@ description: >-
 
 # Compras - Condições de Pagamentos
 
-## Condição de Pagamento    <a id="forma-de-pagamento"></a>
+## Condição de Pagamento     <a id="forma-de-pagamento"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :---: | :--- | :--- | :--- | :--- |

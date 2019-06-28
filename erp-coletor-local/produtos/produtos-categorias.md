@@ -22,8 +22,6 @@ description: >-
 SELECT store_id AS "store_id", 
        code     AS "code", 
        category AS "category" 
-FROM   view_product_categories 
+FROM   view_product_categories
 ```
-
-
 

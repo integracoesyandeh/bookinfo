@@ -4,7 +4,7 @@
 
 ## Compras
 
-### SellIn - Cabeçalho     <a id="sellin---cabe&#xE7;alho"></a>
+### SellIn - Cabeçalho      <a id="sellin---cabe&#xE7;alho"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :---: | :--- | :--- | :--- | :--- |

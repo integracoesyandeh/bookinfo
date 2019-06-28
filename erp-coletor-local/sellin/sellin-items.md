@@ -4,7 +4,7 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 
 # Compras - Itens
 
-## Compras de Fornecedor - Itens    <a id="sellin---itens"></a>
+## Compras de Fornecedor - Itens     <a id="sellin---itens"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :---: | :--- | :--- | :--- | :--- |

@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Documentação Yandeh - Integração](README.md)
-* [Visão](visao-geral-da-plataforma.md)
 * [Coletor ERP](erp-coletor-local/README.md)
   * [Lojas](erp-coletor-local/store.md)
   * [Compras](erp-coletor-local/sellin/README.md)
@@ -19,13 +18,6 @@
     * [Produtos - Categorias Personalizadas](erp-coletor-local/produtos/produtos-categorias-personalizadas.md)
     * [Produtos - Produtos Relacionados](erp-coletor-local/produtos/produtos-produtos-relacionados.md)
     * [Produtos - Fornecedores](erp-coletor-local/produtos/produtos-fornecedores.md)
-  * [\*Pedido de Venda](erp-coletor-local/pedido-de-venda/README.md)
-    * [Pedidos de Venda - Itens](erp-coletor-local/pedido-de-venda/pedidos-de-venda-itens.md)
-    * [Pedido de venda - Endereços](erp-coletor-local/pedido-de-venda/pedido-de-venda-enderecos.md)
-    * [Pedido de venda - Forma de Pagamento](erp-coletor-local/pedido-de-venda/pedido-de-venda-forma-de-pagamento.md)
-    * [Pedido de venda - Entrega](erp-coletor-local/pedido-de-venda/pedido-de-venda-entrega.md)
-  * [\*Notas fiscais - Pedido de Venda](erp-coletor-local/notas-fiscais-do-pedido/README.md)
-    * [Notas fiscais do Pedido - Títulos da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-titulos-da-fatura.md)
-    * [Notas fiscais do Pedido - Itens da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-itens-da-fatura.md)
+  * [Estoque](erp-coletor-local/estoque.md)
 * [API-REST](api-rest.md)
 

@@ -24,6 +24,6 @@ SELECT store_id      AS "store_id",
        code          AS "code", 
        internal_code AS "sku", 
        sku           AS "sku" 
-FROM   view_product_related_products 
+FROM   view_product_related_products
 ```
 

@@ -23,5 +23,3 @@ SELECT store_id AS "store_id",
 FROM   view_product_suppliers
 ```
 
-
-
